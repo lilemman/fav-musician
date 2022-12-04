@@ -1,6 +1,9 @@
 *{
     margin: 0px;
 }
+p{
+    font-size: 24px;
+}
 
 /* Header */
 header{
